@@ -15,7 +15,7 @@ There are several ways to use the risk adjustment models. The first approach use
 * [Risk Adjustment - Method 3 - SQL Example]()
 
 ### Preparing Data for Submission
-The repo also provides the **measures descriptions** and **measures schemas** published by CMS every year since the IROMS measures were approved by CMS. CMS publishes the **measures descriptions** and **measures schemas** every year on the QPP-CMS Github. Keet copies both the definitions and schema for each year and loads them here for ease.
+The repo also provides the **measures descriptions** and **measures schemas** published by CMS every year since the MSK measures were approved by CMS. CMS publishes the **measures descriptions** and **measures schemas** every year on the QPP-CMS Github. Keet copies both the definitions and schema for each year and loads them here for ease.
 
 * [Measures Overview]()
 * [Measures Definitions/Schemas](measures)
