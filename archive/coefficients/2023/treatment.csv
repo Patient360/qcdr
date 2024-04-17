@@ -1,0 +1,3 @@
+TX_TYPE_CD,MDQ.prob.mcid,MDQ.prob.pain,NDI.prob.mcid,NDI.prob.pain,KOS.prob.mcid,KOS.prob.pain,LEFS.prob.mcid,LEFS.prob.pain,QDASH.prob.mcid,QDASH.prob.pain
+Conservative,0,0,-0.329728,0,0,0,0,0,0,0
+Surgical,0.316342,0.365521,0,0.314451,-0.385095,-0.415741,-0.267837,-0.20258,-0.184289,-0.277425
