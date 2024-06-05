@@ -9,7 +9,7 @@ Using the CSV tables to generate risk adjusted patient data.
 
 The first column(s) are used to look up the appropriate row for a specific patient.
 
-The duration is for duration of symptom, the number of days from injury or surgery to admission. Use the row where the patient's value lies between the "lower" and "upper" values, if the patients number matches exactly then use the row for which they match the "upper" value, e.g. if the duration is 14 days then use the row for 7 to 14 days rather than the 14 to 30-day row. If this value is missing/unknown because the exact date of injury is not known, then use the row with "Missing" in the lower and upper columns. All other tables have a single row for each possible value, use the row that matches.
+The duration is for duration of symptom, the number of days from injury or surgery to admission. Use the row where the patient's value lies between the "lower" and "upper" values, if the patients number matches exactly then use the row for which they match the "upper" value, e.g. if the duration is 31 days then use the row for 0 to 30 days rather than the 31 to 90-days row. If this value is missing/unknown because the exact date of injury is not known, then use the row with "Missing" in the lower and upper columns.
 
 The "intercepts" table has only 1 row of values, use the value from this row (and the appropriate column) for all patients.
 
