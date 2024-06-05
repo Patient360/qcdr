@@ -2,12 +2,9 @@
 Using SQL to calculate patients' probability of failure to progress. Follow the same steps in the Risk Adjustment - Method 2. Except in this case, you would load the CSV tables into a SQL DB and then use SQL to generate risk adjusted patient data.
 
 * Download the CSV tables
-  * [2019 - Risk Adjustment Tables](../coefficients/2019)
-  * [2020 - Risk Adjustment Tables](../coefficients/2020)
-  * [2021 - Risk Adjustment Tables](../coefficients/2021)
-  * [2022 - Risk Adjustment Tables](../coefficients/2022)
-  * [2023 - Risk Adjustment Tables](../coefficients/2023)
-  * [2024 - Risk Adjustment Tables](../models/2024)
+
+* [2024 - Risk Adjustment Tables](../models/2024)
+
 * Load the CSV tables into a SQL database
 * Query sample patient population
 * Query new Risk Adjustment Tables
