@@ -1,5 +1,3 @@
-<img src="docs/limber-logo-transparent-3.png" height="25"/>  <img src="docs/WebPT-logo-color-rgb.png" height="25"/>  
-
 ## MSK Measure Set Stewards
 This repo provides access to the shared MSK Measure set, and the risk adjustment models used to report clinical performance outcomes for MIPS.
 
@@ -19,3 +17,6 @@ There are several ways to use the risk adjustment models. The first approach use
 Every year CMS publishes the submission schema for all measures approved by CMS for MIPS. You can access all schemas for all measures for each year by going to the [measures directory](https://github.com/CMSgov/qpp-measures-data/blob/develop/measures/) in the qpp-cms github repo.
 
 Note because the IROMS measures are inverse by design, the "performanceMet" category represents those patients who failed to meet the MCID. Patients who met or exceeded the MCID are counted in "performanceNotMet" category. For more information about submitting measures to CMS, please checkout the [QPP Submission API Docs](https://cmsgov.github.io/qpp-submissions-docs/)
+
+### Partners
+<img src="docs/limber-logo-transparent-3.png" height="100"/>  <img src="docs/WebPT-logo-color-rgb.png" height="100"/> 
