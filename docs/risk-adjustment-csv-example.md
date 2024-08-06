@@ -55,9 +55,9 @@ For example, if we have a patient who is a 43 year old Male, admitted with an MD
 4. Predict Patient FTP Rate.  So for this example the sum would be:
 
 ```
-x = -0.985615443700592 + 1.417297947 + 0 + -0.2208559866 + 0 + 0 + 0 + 0.07409663711
+x = -0.985615443700592 + 1.417297947 + 0 + -1.828403877 + 0 + 0 + 0 + 0.07409663711
 ```
-where x sums to 0.284923153809408. Using the summed value, you can then convert this to a probability value between 0.0000 and 1.0000.
+where x sums to 0.2103819371643159. Using the summed value, you can then convert this to a probability value between 0.0000 and 1.0000.
 
 ```
 p = EXP(x) / EXP(1+x)
