@@ -20,4 +20,4 @@ Every year CMS publishes the submission schema for all measures approved by CMS 
 Note because the IROMS measures are inverse by design, the "performanceMet" category represents those patients who failed to meet the MCID. Patients who met or exceeded the MCID are counted in "performanceNotMet" category. For more information about submitting measures to CMS, please checkout the [QPP Submission API Docs](https://cmsgov.github.io/qpp-submissions-docs/)
 
 ### MSK Measure Stewards
-<img src="docs/limber-logo-transparent-3.png" height="100"/>  <img src="assets/patient360_bwrev.png" height="100"/> 
+<img src="docs/limber-logo-transparent-3.png" height="100"/>  <img src="assets/patient360_logo_bwrev.png" height="100"/> 
