@@ -18,7 +18,7 @@
 2.  **Open the spreadsheet.**
     You will notice there are separate columns for each outcome measure. The column labels consist of the name of the quality measure (MSK1-MSK10) followed by a period (`.`), the body region (Neck, Upper Extremity, Back, Lower Extremity, Knee, and Neck) followed by a period (`.`), and the name of the survey:
     
-    * NDI, MDQ, QDASH, UE (PROMIS upper extremity), **PENN**, LEFS, PF (PROMIS physical function), HOOSJr, KOOSJr, KOS, **IKDC**, and NPRS.
+    * NDI, MDQ, QDASH, UE (PROMIS upper extremity), $\color{red}{\text{PENN}}$, LEFS, PF (PROMIS physical function), HOOSJr, KOOSJr, KOS, $\color{red}{\text{IKDC}}$, and NPRS.
     
     The first column(s) are used to look up the appropriate category/value for a specific patient.
     
