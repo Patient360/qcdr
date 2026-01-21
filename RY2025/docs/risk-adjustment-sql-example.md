@@ -3,7 +3,7 @@ Using SQL to calculate patients' probability of failure to progress. Follow the 
 
 * Download the CSV tables
 
-* [2024 - Risk Adjustment Tables](../models/2024)
+* [2025 - Risk Adjustment Tables](../models/)
 
 * Load the CSV tables into a SQL database
 * Query sample patient population
