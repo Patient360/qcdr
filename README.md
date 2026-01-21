@@ -1,5 +1,5 @@
 ## MSK Measure Set
-This repo provides access to the shared MSK Measure set, and the risk adjustment models used to report clinical performance outcomes for MIPS.
+The following provides instructions on how to use the MSK 1-10 QCDR Measures set and the risk-adjustment (RA) models used to report clinical performance outcomes for Traditional MIPS and MIPS Value Pathways (MVPs).
 
 ## Getting Started
 The MSK Measures are multi-performance rate measures consisting of both observed and risk adjusted data **All quality data submitted to CMS-QPP MUST include both risk adjusted data along with the observed patient outcomes for the reporting period**. Each measure allows for different valid survey instruments to be used to collect patient reported outcomes for evaluating and reporting clinical performance to CMS.
