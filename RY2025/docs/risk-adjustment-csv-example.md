@@ -3,7 +3,7 @@ Using the CSV tables to generate risk adjusted patient data.
 
 1. Download ALL CSV files listed in the coefficients subdirectory for a specific reporting year (typically this is the current reporting year).
 
-* [2024 - Risk Adjustment Tables](../models/2024)
+* [2025 - Risk Adjustment Tables](../models)
 
 2. Open each file. You will notice there are 1 or 2 or 3 or 4 columns for each outcome measure, the column labels consist of the name of the outcome measure (MSK01, MSK02, MSK03, MSK04, MSK05, MSK11, MSK12, MSK13, MSK14 and MSK15) followed by a period (".") and will notice there are 1 or 2 or 3 or 4 columns for each body region, the column labels consists of the name of the body region(Neck, Upper Extremity, Back, Lower Extremity, Knee and Neck) followed by a period (".") and will notice there are 1 or 2 or 3 or 4 columns for each Survey, the column labels consists of the name of the survey(NDI, PI, QDASH, UE, PENN, MDQ, LEFS, HOOSJr, KOS, PF, IKDC and NPRS).
 
