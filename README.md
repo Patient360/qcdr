@@ -7,7 +7,12 @@ The MSK Measures are multi-performance rate measures consisting of both observed
 *Due to lack of data the PENN and IKDC are not currently supported.*
 
 
-### Risk Adjusting Patient Outcomes Data
+### Performance Measure Calculations and Risk Adjustment
+Performance Measure Calculations and Risk Adjustment is provided below by CMS Performance Period. Choose the desired Performance Period:
+
+* [2026](docs/risk-adjustment-workbook-example.md)
+* [2025](docs/risk-adjustment-csv-example.md)
+
 There are several ways to use the risk adjustment models. The first approach uses an Excel Workbook. The second approach uses the set of CSV (coefficients) tables. A third approach uses SQL. We'll walk through using all three methods.
 
 * [Risk Adjustment - Method 1 - Excel Workbook](docs/risk-adjustment-workbook-example.md)
