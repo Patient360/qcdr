@@ -7,11 +7,11 @@ The MSK Measures are multi-performance rate measures consisting of both observed
 *Due to lack of data the PENN and IKDC are not currently supported.*
 
 
-### Performance Measure Calculations and Risk Adjustment
+## Performance Measure Calculations and Risk Adjustment
 Performance Measure Calculations and Risk Adjustment is provided below by CMS Performance Period. Choose the desired Performance Period:
 
 * [2026](docs/risk-adjustment-workbook-example.md)
 * [2025](docs/risk-adjustment-csv-example.md)
 
-### MSK Measure Stewards
+## MSK Measure Stewards
 <img src="docs/limber-logo-transparent-3.png" height="100"/>  <img src="assets/patient360_logo_bwrev.png" height="100"/> 
