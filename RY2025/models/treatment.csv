@@ -1,0 +1,4 @@
+TX_TYPE_CD,MSK1.Neck.NDI,MSK1.Neck.PI,MSK2.UpperExtremity.QDASH,MSK2.UpperExtremity.UE,MSK2.UpperExtremity.PENN,MSK3.Back.MDQ,MSK3.Back.PI,MSK4.LowerExtremity.LEFS,MSK4.LowerExtremity.PI,MSK4.LowerExtremity.HOOSJr,MSK5.Knee.KOS,MSK5.Knee.PF,MSK5.Knee.KOOSJr,MSK5.Knee.IKDC,MSK6.Neck.NPRS,MSK7.UpperExtremity.NPRS,MSK8.Back.NPRS,MSK9.LowerExtremity.NPRS,MSK10.Knee.NPRS
+Conservative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Surgical,-0.314787,-0.4931,0.315981,0,-0.887,-0.205415,-0.5034,0.320614,0,-0.795,0.461943,0.1393,-0.768,-0.788,-0.450254,0.1455,-0.4718,0.0588,0.3669
+Missing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
