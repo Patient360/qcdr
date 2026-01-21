@@ -1,9 +1,9 @@
 ## Risk Adjustment - Method 1
 Using the Excel Workbook.
 
-1. Download the workbook for the current reporting year.
+1. Download the 2025 workbook.
 
-* [2024 - Risk Adjustment Workbook](../models/2024/01%20Example%20Excel%20Book.xlsx)
+* [2025 - Risk Adjustment Workbook](../models/2024/01%20Example%20Excel%20Book.xlsx)
 
 2. Open the workbook and look at the first sheet named, 'Patient Data'. This is where you input patient record data.
 
