@@ -3,7 +3,7 @@ Using the Excel Workbook.
 
 1. Download the 2025 workbook.
 
-* [2025 - Risk Adjustment Workbook](../models/01%20Example%20Excel%20Book.xlsx)
+* [2025 - Risk Adjustment Workbook](../models/01%20Example%20Excel%20Book.xlsx?raw=true)
 
 2. Open the workbook and look at the first sheet named, 'Patient Data'. This is where you input patient record data.
 
