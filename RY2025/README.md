@@ -1,9 +1,9 @@
 ## MSK Measure Set for 2025
 There are several ways to use the risk adjustment models. The first approach uses an Excel Workbook. The second approach uses the set of CSV (coefficients) tables. A third approach uses SQL. We'll walk through using all three methods.
 
-* [Risk Adjustment - Method 1 - Excel Workbook](docs/risk-adjustment-workbook-example.md)
-* [Risk Adjustment - Method 2 - CSV Tables](docs/risk-adjustment-csv-example.md)
-* [Risk Adjustment - Method 3 - SQL Example](docs/risk-adjustment-sql-example.md)
+* [Risk Adjustment - Method 1 - Excel Workbook](docs/risk-adjustment-workbook-example.md?raw=true)
+* [Risk Adjustment - Method 2 - CSV Tables](docs/risk-adjustment-csv-example.md?raw=true)
+* [Risk Adjustment - Method 3 - SQL Example](docs/risk-adjustment-sql-example.md?raw=true)
 
 ### Preparing Data for Submission
 
