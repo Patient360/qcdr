@@ -4,7 +4,7 @@ The following provides instructions on how to use the MSK 1-10 QCDR Measures set
 ## Getting Started
 The MSK Measures are multi-performance rate measures consisting of both observed (raw) and risk adjusted performance rates. All quality data submitted to the CMS Quality Payment Program must include both risk-adjusted data along with the observed (raw/unadjusted) patient outcomes for the reporting period. Each measure allows for different valid survey instruments to be used to collect patient reported outcomes for evaluating and reporting clinical performance to CMS.
 
-Due to lack of data the PENN and IKDC are not currently supported.
+*Due to lack of data the PENN and IKDC are not currently supported.*
 
 
 ### Risk Adjusting Patient Outcomes Data
