@@ -8,7 +8,7 @@ Each measure allows for different valid survey instruments to be used to collect
 
 
 ## MSK Measures Calculation Methodology
-Performance Measure Calculations and Risk Adjustment is provided below by CMS Performance Period. Choose the desired Performance Period:
+MSK Measures Calculations, including risk adjustment, is provided below by CMS Performance Period. Choose the desired Performance Period:
 
 * [2026](RY2026/README.md)
 * [2025](RY2025/README.md)
