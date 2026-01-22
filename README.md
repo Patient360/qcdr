@@ -7,7 +7,7 @@ The MSK Measures produce a single (“1st”) performance rate that is submitted
 Each measure allows for different valid survey instruments to be used to collect patient reported outcomes for evaluating and reporting clinical performance to CMS. **_Due to lack of data the PENN and IKDC are not currently supported._**
 
 
-## Performance Measure Calculations and Risk Adjustment
+## MSK Measures Calculation Methodology
 Performance Measure Calculations and Risk Adjustment is provided below by CMS Performance Period. Choose the desired Performance Period:
 
 * [2026](RY2026/README.md)
