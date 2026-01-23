@@ -14,4 +14,4 @@ MSK Measures Calculations, including risk adjustment, is provided below by CMS P
 * [2025](RY2025/README.md)
 
 ## MSK Measure Stewards
-<img src="assets/limber-logo-transparent-3.png" height="100"/>  <img src="assets/patient360_logo_bwrev.png" height="100"/> 
+<img src="assets/limber-logo-transparent-3.png" height="100"/>  <img src="assets/limber-p360-logo.png" height="100"/> 
