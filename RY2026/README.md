@@ -1,7 +1,7 @@
 ## MSK Measure Set for 2026
 
 1.  **Download the workbook for the current reporting year.**
-    * [2026 - MSK Measure Calculation Methodology](https://github.com/Patient360/qcdr/raw/main/RY2026/models/2026%20MSK%20Measure%20Calculation%20Methodology_v260125.xlsx)
+    * [2026 - MSK Measure Calculation Methodology](https://github.com/Patient360/qcdr/raw/main/RY2026/models/2026%20MSK%20Measure%20Calculation%20Methodology_v260125.xlsx?raw=true)
     
     The existing data shown on the first spreadsheet (**Patient Data**) are synthetic data generated for the purpose of example. Each row represents a patient record, and each record consists of patient data required to calculate the risk-adjusted performance score (adjusted met/not met).
     
