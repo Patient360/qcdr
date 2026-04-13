@@ -39,7 +39,7 @@
 
 6.  **Adjusted Performance Logic**
     The patient-level adjusted performance is generated using the following logic:
-    When the predicted probability of achieving the MCID (**Predicted Progression**) is greater than `0.3`, it is interpreted as a moderate to high probability of achieving this minimal change. No RA is applied since these are all patients that are expected to achieve the outcome.
+    When the predicted probability of achieving the MCID (**Predicted Progression**) is greater than `0.3`, it is interpreted as a moderate to high probability of achieving this minimal change. No RA is applied since these are all patients that are expected to achieve the outcome. Additionally, when the Admit Pain score is 0 or 1, the performance for MSK6-10 (i.e., the "pain measures) will always be Met regardless of the predicted progression.
 
 ### Preparing Data for Submission
 
